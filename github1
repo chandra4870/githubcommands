@@ -1,0 +1,23 @@
+..git clone <git url>
+cd <path directory>
+ls
+mkdir mcodeain
+mkdir main/main.py
+code  .
+     ### something writting
+git add . <or> git add main.py
+git statusls
+
+git commit -m "added some files"
+git push
+
+succesfully
+
+
+git log  --oneline
+git cat-file -p 
+git cat-file -t
+
+
+
+
